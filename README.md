@@ -2,9 +2,6 @@
 ## 介绍
 一个由React.js编写的新闻WebApp。
 A news WebApp by React.js.
-本应用仅供学习，请不要用于商业用途，供学习交流😁
-因为技术有限，所以可能有好多不足，欢迎提建议哦😄
- 👉 [项目地址]( https://github.com/microzz/news-app-by-react.js)
 
 ## 技术栈
 ### React.js组件化开发
@@ -28,11 +25,22 @@ Ant Design 是蚂蚁金服开发和正在使用的一套企业级的前端设计
 基于 webpack 的调试构建方案，支持 ES6。
 
 ## 开始
-本项目以慕课网视频为原型开发，大家可以发挥想象改进功能😄 
 
-下载下来之后,先安装依赖 `npm install` 或者 `cnpm install`，然后： 
+## Build Setup
 
-`npm run dev` or `npm run build`
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
 ## 预览
 PC端
