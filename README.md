@@ -44,11 +44,11 @@ npm run build --report
 
 ## 预览
 PC端
-![react-news by microzz.com](https://github.com/microzz/news-app-by-react.js/blob/master/preview/pc-index.png?raw=true)
+![react-news by microzz.com](https://github.com/snowyG0924/NewsApp-react/blob/master/preview/01.png)
 
 手机端
 
-![react-news by microzz.com](https://github.com/microzz/news-app-by-react.js/blob/master/preview/phone.png?raw=true)
+![react-news by microzz.com](https://github.com/snowyG0924/NewsApp-react/blob/master/preview/02.png)
 
 
 
